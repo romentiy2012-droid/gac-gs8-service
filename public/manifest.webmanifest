@@ -1,0 +1,28 @@
+{
+  "id": "./",
+  "name": "GAC GS8 — сервисный журнал",
+  "short_name": "GAC Сервис",
+  "description": "Регламент и история технического обслуживания GAC GS8",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "background_color": "#fbfaf7",
+  "theme_color": "#111820",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
